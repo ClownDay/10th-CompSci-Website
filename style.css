@@ -29,4 +29,9 @@ a {
 
 .header-link {
   color: #b5e853;
+  text-declaration: none;
+}
+
+.header-link:hover {
+    text-decoration: underline;
 }

@@ -1,4 +1,4 @@
-<title>&lt&ltInequalities</title>
+<title>&lt&lt Inequalities</title>
 
 # An Introduction to Basic Inequalities
 

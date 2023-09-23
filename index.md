@@ -1,3 +1,5 @@
+<title>Inequalities</title>
+
 # An Introduction to Basic Inequalities
 
 Disclaimer: This website is being made by a 10th grader with very little knowledge on inequalities and struggles to derive the AM-GM inequality on his own. It will also largely be a regurgitation of knowledge from a book about inequalities he read. Due to a lack of willpower to convert things to LaTeX, most math will be in plain text, making it painful to read.

@@ -3,15 +3,26 @@
 }
 
 body {
-  background: black;
-  color: silver
+  background: #151515;
+  color: silver;
   font-family: "Andale-Mono", "FreeMono", monospace;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: lime;
+  color: #b5e853;
 }
 
 p {
   
+}
+
+hr {
+  height: 0;
+  border: 0;
+  border-bottom: 2px solid #b5e853;
+  color: #b5e853
+}
+
+a {
+  color: #63c0f5;
 }

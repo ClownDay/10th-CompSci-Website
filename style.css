@@ -8,7 +8,12 @@ body {
   font-family: "Andale-Mono", "FreeMono", monospace;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
+  color: #b5e853;
+  margin-bottom: 0px;
+}
+
+h1 {
   color: #b5e853;
 }
 
@@ -30,6 +35,18 @@ a {
 .flex-container {
   display: flex;
   flex-flow: row wrap;
+  align-items: center;
+  justify-content:center;
+}
+
+.flex-box {
+  flex: 1 1 200px;
+  margin: 0px 10px 0px 10px;
+  padding: 0px 10px 0px 10px;
+}
+
+.flex-image {
+  
 }
 
 .header-link {

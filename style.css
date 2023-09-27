@@ -27,6 +27,11 @@ a {
   color: #63c0f5;
 }
 
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+}
+
 .header-link {
   color: #b5e853;
   text-decoration: none;
